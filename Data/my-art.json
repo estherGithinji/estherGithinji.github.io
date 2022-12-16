@@ -1,0 +1,39 @@
+{
+    "art": [
+      {
+        "id": 1,
+        "type": "digital art",
+        "url": "https://virtu-art.com/wp-content/uploads/2021/02/Modern-Digital-Art.jpg"
+      },
+      {
+        "id": 2,
+        "type": "drawings",
+        "url": "https://beautifuldawndesigns.net/wp-content/uploads/2021/07/amazing-drawings-2.jpg"
+      },
+      {
+        "id": 3,
+        "type": "absract",
+        "url": "https://webneel.com/daily/sites/default/files/images/daily/08-2020/colorful-woman-portrait-painting-kotwdq.jpg"
+      },
+      {
+        "id": 4,
+        "type": "painting",
+        "url": "https://s3.amazonaws.com/showflipper/product/69601536314088.jpg"
+      },
+      {
+        "id": 5,
+        "type": "mordern art",
+        "url": "https://images.unsplash.com/photo-1612487528505-d2338264c821?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bW9kZXJuJTIwYXJ0fGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "type": "new art",
+        "url": "https://historylists.org/images/the-scream.jpg",
+        "id": 6
+      },
+      {
+        "type": "abstract",
+        "url": "https://i.pinimg.com/originals/92/25/26/922526935f35f58cdbab01453c4e5baf.jpg",
+        "id": 7
+      }
+    ]
+  }
